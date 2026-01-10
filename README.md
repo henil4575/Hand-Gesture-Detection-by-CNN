@@ -1,6 +1,6 @@
-# PRODIGY_ML_04
+# Hnad Gesture Detection
 
- 🚀 Prodigy InfoTech
+ 🚀 CNN Architecture
 Excited to share my latest project: Real-time Hand Gesture Recognition using Convolutional Neural Networks (CNN) and OpenCV!
 
 🖐 Hand gesture recognition holds immense potential for applications in human-computer interaction, robotics, and accessibility. 
