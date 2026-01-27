@@ -1,4 +1,4 @@
-# Hnad Gesture Detection
+# Hand Gesture Detection
 
  🚀 CNN Architecture
 Excited to share my latest project: Real-time Hand Gesture Recognition using Convolutional Neural Networks (CNN) and OpenCV!
